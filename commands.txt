@@ -6,3 +6,5 @@
 >git status  [list all untracked files]
 >git add -A [commad for adding all untracked files to staging are]
 >git commit -m "commitmsg" [adding a staged filles to local respostary]
+>git remote add origin "path" [add to git hub]
+>git remote -v [list-remotes]
