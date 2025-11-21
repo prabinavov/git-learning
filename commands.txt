@@ -4,3 +4,5 @@
 >git --global user.name "username" [commad for add user name]
 >git  --global user.email "user@gmail.com" [commad for add user email]
 >git status  [list all untracked files]
+>git add -A [commad for adding all untracked files to staging are]
+>git commit -m "commitmsg" [adding a staged filles to local respostary]
