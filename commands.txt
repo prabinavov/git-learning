@@ -8,3 +8,4 @@
 >git commit -m "commitmsg" [adding a staged filles to local respostary]
 >git remote add origin "path" [add to git hub]
 >git remote -v [list-remotes]
+>git master [listing for branches]
